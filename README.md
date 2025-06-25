@@ -1,3 +1,4 @@
+
 # 🌦️ Weather Forecast Dashboard using Power BI & WeatherAPI.com
 
 Welcome to the **Weather Forecast Dashboard** project!  
@@ -53,11 +54,55 @@ This interactive dashboard is built in **Power BI** and uses real-time weather d
 
 ## 📷 Screenshots
 
-![Screenshot 2025-06-26 023155](https://github.com/user-attachments/assets/5ad4b352-6736-456c-bb37-767c53649d88)
-
+![Screenshot 2025-06-26 023630](https://github.com/user-attachments/assets/f455db75-79d5-46e1-aea4-f3f2f143b430)
 
 ---
 
 ## 📁 Folder Structure
+
+```
+Weather_Forecast_Dashboard/
+├── Weather_Dashboard.pbix         # Power BI Report File
+├── README.md                      # Project Documentation
+└── Screenshots/                   # Dashboard Images (Optional)
+```
+
+---
+
+## 🌐 API Reference
+
+- API Provider: [WeatherAPI.com](https://www.weatherapi.com/docs/)
+- Endpoint used: `/current.json`
+- Sample URL:  
+  ```
+  https://api.weatherapi.com/v1/current.json?key=YOUR_API_KEY&q=London
+  ```
+
+---
+
+## ✍️ Author
+
+**Aayush Yadav**  
+📍 Mumbai, Maharashtra, India  
+🔗 [LinkedIn](https://www.linkedin.com/in/aayush-yadav2004)  
+📧 [aayu.sh7021@gmail.com](mailto:aayu.sh7021@gmail.com)
+
+---
+
+## 📌 Future Enhancements
+
+- 📍 Add support for multiple cities  
+- 📅 Include hourly or 3-day forecasts  
+- 🌡️ Create weather alert banners  
+- 📲 Publish report to Power BI Service
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+> ⭐ Star this repo if you find it useful!  
+> 🛠️ Contributions and feedback are always welcome!
 
 
